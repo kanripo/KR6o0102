@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:55.458068
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:29
 #+TITLE: 起信論疏（選錄「科文」）
 #+PROPERTY: CBETA_ID J07nA123
 #+PROPERTY: ID KR6o0102
